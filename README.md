@@ -1,4 +1,4 @@
-#vin website KE
+# vin website KE
 
 This website is about vinod osoro a kenyan citizen.Currently a student in computer science
 looking foward to be the best programmer and software developer.Contact me through gmail
